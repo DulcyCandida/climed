@@ -1,12 +1,4 @@
-Para  a projeção do projeto do aplicativo da Clínica médica Climed
-será definido e guiado por uma gestão onde sera inplantado um
-planejamento estratégico com estrutura completa que exige melhoria contínua
-por meio de tecnologia personalizada e humanizada, otimizando  e qualificando
-o atendimento ao paciente, oferecer maior conforto, diagnóstico mais ágil,
-tratamentos mais assertivos e seguros visando a melhor qualidade dos serviços
-especializados com eficiência, trazendo segurança para beneficiar o  bem estar
-a todo paciente.A Clínica Médica CLIMED tem como objetivo  ter o paciente no
-centro do cuidado e garantia de excelência na sua saúde e seu bem estar.
+
 
 Mapeamento e Feedback
 
@@ -41,5 +33,3 @@ estratégias o público alvo começa se interessar pelo conteúdo conquista de n
 usuários com isso aumenta a credibilidade do nome e atendimento prestados pela
 Climed . Avalia seus personas idade,gênero, renda região de residência tenha sempre
 
-https://dulcycandida.wordpress.com/wp-admin/site-editor.php?path=%2Fpage
-https://dulcycandida.wordpress.com/wp-admin/site-editor.php?postType=page&postId=19
